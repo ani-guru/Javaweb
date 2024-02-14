@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:/Users/Anirudh Guruvula/IdeaProjects/CoreJ/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PostResources base="C:/Users/Anirudh Guruvula/.m2/repository/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/commons-fileupload-1.5.jar"/>
+    <PostResources base="C:/Users/Anirudh Guruvula/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/commons-io-2.11.0.jar"/>
+    <PostResources base="C:/Users/Anirudh Guruvula/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javax.servlet-api-4.0.1.jar"/>
+  </Resources>
+</Context>
